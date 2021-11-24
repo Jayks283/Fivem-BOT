@@ -124,4 +124,4 @@ client.on('guildMemberRemove', member => {
 
 
 
-client.login('ODQ2ODcyNTA5ODcyNjAzMTc2.YK11fA.EkKfxr4tCSlFUphsesqPMWZZaZw');
+client.login('InsertToken');
