@@ -125,3 +125,4 @@ client.on('guildMemberRemove', member => {
 
 
 client.login('InsertToken');
+//made by TVjayke#0117 on discord\\
